@@ -1,0 +1,1 @@
+export const BASEPATH = `http://localhost:7000`
